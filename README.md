@@ -45,7 +45,7 @@ I'm always eager to learn new algorithms and stay up-to-date with the evolving t
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,opencv,tensorflow,python,c,cpp,java,anaconda,linux,void,ubuntu,vscode,clion,pycharm,idea&perline=4" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,opencv,tensorflow,python,c,cpp,java,anaconda,linux,nmap,ubuntu,vscode,clion,pycharm,idea&perline=4" /><br>
   </a>
 <hr>
 
