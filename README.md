@@ -1,20 +1,14 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/d72c3011-fd79-4ca5-875b-92f80c8e5f4a)
 
-### 👋 Hi, I’m Pouyan Delivandani
-
-- 👀 Interested in Cybersecurity, AI, and Video Games  
-- 🌱 Currently learning and open to work opportunities  
-- 😄 Pronouns: He/Him  
-- ☕ Languages: English & Persian  
+- Interested in Cybersecurity, AI, and Video Games  
+- Currently learning and open to work opportunities  
+- Pronouns: He/Him  
+- Languages: English & Persian  
 
 I'm a Computer Engineer passionate about both hardware and software.
-I have hands-on experience in image processing, machine learning, deep learning, and CNNs, along with strong knowledge of related frameworks and tools.
-
-I'm particularly interested in the intersection of Artificial Intelligence and Cybersecurity.
-
-I've also participated in multiple computer science competitions, earning top rankings.
-I'm always eager to learn new algorithms and stay up-to-date with the evolving tech landscape.
+I have hands-on experience in image processing, machine learning, deep learning, and CNNs and have some knowledge about Network Security along with related frameworks and tools.
+Particularly interested in the intersection of Artificial Intelligence and Cybersecurity.
 
 <!-- Socials -->
 <h2 align="center">Contact me via</h2>
@@ -24,10 +18,6 @@ I'm always eager to learn new algorithms and stay up-to-date with the evolving t
   <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
   <a href = "https://t.me/cofeeoldman"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
-  <!-- LinkedIn -->
-  <a href = "https://www.linkedin.com/in/pouyan-d-731a48384/"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" alt="LinkedIn"     width="30px"></a>
-</div>
-
 
 
 <picture>
