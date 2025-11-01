@@ -1,7 +1,6 @@
 
 ![maxresdefault](https://github.com/user-attachments/assets/d72c3011-fd79-4ca5-875b-92f80c8e5f4a)
 
-- Interested in Cybersecurity, AI, and Video Games  
 - Currently learning and open to work opportunities  
 - Pronouns: He/Him  
 - Languages: English & Persian  
