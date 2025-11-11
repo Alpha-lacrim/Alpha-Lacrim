@@ -5,7 +5,7 @@
 - Pronouns: He/Him  
 - Languages: English & Persian
 
-A computer engineering student interested in AI for Security and Security for AI. I have a background in Cybersecurity and Linux fundamentals, along with hands-on experience in various areas of Machine Learning, including data processing, deep learning with Keras and TensorFlow, neural networks (NN), convolutional neural networks (CNN), YOLO, vision-language models (VLM), and CLIP.
+Computer engineering student focused on machine learning and deep learning (Keras, TensorFlow). Experienced with CNNs, YOLO, vision-language models, and CLIP, with additional background in cybersecurity and Linux.
 
 <!-- Socials -->
 <h2 align="center">Contact me via</h2>
