@@ -3,11 +3,9 @@
 
 - Currently learning and open to work opportunities  
 - Pronouns: He/Him  
-- Languages: English & Persian  
+- Languages: English & Persian
 
-I'm a Computer Engineer passionate about both hardware and software.
-I have hands-on experience in image processing, machine learning, deep learning, and CNNs and have some knowledge about Network Security along with related frameworks and tools.
-Particularly interested in the intersection of Artificial Intelligence and Cybersecurity.
+A computer engineering student interested in AI for Security and Security for AI. I have a background in Cybersecurity and Linux fundamentals, along with hands-on experience in various areas of Machine Learning, including data processing, deep learning with Keras and TensorFlow, neural networks (NN), convolutional neural networks (CNN), YOLO, vision-language models (VLM), and CLIP.
 
 <!-- Socials -->
 <h2 align="center">Contact me via</h2>
