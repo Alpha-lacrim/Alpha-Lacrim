@@ -23,9 +23,6 @@ Computer engineering student focused on machine learning and deep learning (Kera
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Alpha-lacrim/Alpha-lacrim/output/github-contribution-grid-snake.svg">
 </picture>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alpha-lacrim&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alpha-Lacrim&show_icons=true&theme=radical)
-
 <!-- Languages -->
 <hr>
 <h2 align="center">Languages/Frameworks/Tools</h2>
