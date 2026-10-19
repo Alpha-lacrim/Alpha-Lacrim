@@ -5,8 +5,6 @@
 - Pronouns: He/Him  
 - Languages: English & Persian
 
-Computer engineering student focused on machine learning and deep learning (Keras, TensorFlow). Experienced with CNNs, YOLO, vision-language models, and CLIP, with additional background in cybersecurity and Linux.
-
 <!-- Socials -->
 <h2 align="center">Contact me via</h2>
 
@@ -14,7 +12,7 @@ Computer engineering student focused on machine learning and deep learning (Kera
   <!--  Mail  -->
   <a href="mailto:pouyan.delivandani@gmail.com" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Light.svg" target="_blank" alt="Gmail"       width="30px"></a>
   <!--  Telegram  -->
-  <a href = "https://t.me/cofeeoldman"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
+  <a href = "https://t.me/pouyandel"><img src="https://skills-icons.vercel.app/api/icons?i=telegram" target="_blank" alt="Telegram"     width="30px"></a>
 </h3>
 
 <picture>
